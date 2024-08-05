@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-![mooluck-banner](https://github.com/Ong-gi-Jong-gi/.github/blob/main/profile/mooluck-banner.png?raw=true)
+<img width="1512" alt="2222" src="https://github.com/user-attachments/assets/9aa8f5ba-c533-4723-9236-f5e642577ef0">
 <br/>
 
 
