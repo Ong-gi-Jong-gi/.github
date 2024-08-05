@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<img width="1512" alt="KakaoTalk_20240805_182817030_01" src="https://github.com/user-attachments/assets/b9952787-da57-42dc-90ca-11a06954e11d">
+![mooluck-banner](https://github.com/user-attachments/assets/b9952787-da57-42dc-90ca-11a06954e11d)
 <br/>
 
 
