@@ -15,7 +15,6 @@
 **4. [프로젝트 포스터](#Poster)**
 
 <br/>
-<br/>
 
 <!-- ABOUT THE PROJECT-->
 
@@ -25,7 +24,9 @@
 
 팀원 : [박다흰](https://github.com/pdh90345)(BE), [고동엽](https://github.com/dongyeoppp)(BE), [김민준](https://github.com/minjoon-98)(BE), [강바다](https://github.com/bada308)(BE/FE), [박상우](https://github.com/SangWoo9734)(FE)
 
-#### 기술 스택
+<br/>
+
+## 기술 스택
 | 분류 | 기술 | 
 |-----|-----|
 |**Frontend**|<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/TyepScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=FFFFFF"/>|
