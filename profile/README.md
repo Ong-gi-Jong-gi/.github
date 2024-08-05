@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-![mooluck-banner](https://github.com/user-attachments/assets/b9952787-da57-42dc-90ca-11a06954e11d)
+![mooluck-banner](https://github.com/Ong-gi-Jong-gi/.github/blob/main/profile/mooluck-banner.png?raw=true)
 <br/>
 
 
@@ -41,18 +41,20 @@
 
 가족 데일리 챌린지 어플 '무럭무럭' - 크래프톤 정글 5기 'TEAM 옹기종기' 나만무 프로젝트
 
-**현장 발표 영상 : [바로가기](https://youtu.be/-ZnjccGFvyM)**
+- **발표 자료 : [발표자료 보기](https://docs.google.com/viewer?url=https://github.com/Ong-gi-Jong-gi/.github/blob/main/profile/mooluck-presentation.pdf?raw=true)**
 
-**[서비스 바로가기](https://mooluck.site)**
+- **현장 발표 영상 : [바로가기](https://youtu.be/-ZnjccGFvyM)**
+
+- **서비스 링크 : [바로가기](https://mooluck.site)**
 
 <br/>
 
 <a name="Arch"></a>
 ## 서비스 구조도
-![mooluck-arch](https://github.com/user-attachments/assets/39d3f500-020d-41d1-96e3-2329600701e4)
+![mooluck-arch](https://github.com/Ong-gi-Jong-gi/.github/blob/main/profile/mooluck-arch.png?raw=true)
 
 <br/>
 
 <a name="Poster"></a>
 ## 프로젝트 포스터
-![mooluck-poster](https://github.com/user-attachments/assets/03f48c6c-6421-432f-a01e-d3cd68e2ecf7)
+![mooluck-poster](https://github.com/Ong-gi-Jong-gi/.github/blob/main/profile/mooluck-poster.png?raw=true)
