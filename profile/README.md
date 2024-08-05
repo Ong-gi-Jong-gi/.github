@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-# 무럭무럭
+# <img width="100" alt="KakaoTalk_20240805_180400125" src="https://github.com/user-attachments/assets/d1d96114-42aa-4ea3-8a81-62a98c534d6d"> 무럭무럭
 우리 가족이 함께 키우는 추억의 정원
 <br/>
 
@@ -39,6 +39,8 @@
 
 <a name="Intro"></a>
 ## 서비스 소개
+
+가족 데일리 챌린지 어플 '무럭무럭' - 크래프톤 정글 5기 'TEAM 옹기종기' 나만무 프로젝트
 
 **현장 발표 영상 : [바로가기](https://youtu.be/-ZnjccGFvyM)**
 
