@@ -48,6 +48,8 @@
 
 - **서비스 링크 : [바로가기](https://mooluck.site)**
 
+- **팀 공유 노션 : [바로가기](https://www.notion.so/bbabbayam/7f6e01e0104e412782b234013af5d95f)**
+
 <br/>
 
 <a name="Arch"></a>
